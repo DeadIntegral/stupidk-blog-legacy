@@ -2,6 +2,7 @@
 title: javascript weekly 2020-02-08
 date: "2020-02-08T08:30:00.000Z"
 description: "javascript weekly 2020-02-08"
+tags: ["javascript"]
 ---
 
 

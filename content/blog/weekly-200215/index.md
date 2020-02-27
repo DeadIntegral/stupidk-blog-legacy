@@ -1,7 +1,7 @@
 ---
-title: javascript weekly 2020-02-08
+title: javascript weekly 2020-02-15
 date: "2020-02-15T08:30:00.000Z"
-description: "javascript weekly 2020-02-08"
+description: "javascript weekly 2020-02-15"
 tags: ["javascript"]
 ---
 
