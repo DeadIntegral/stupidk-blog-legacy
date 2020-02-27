@@ -2,6 +2,7 @@
 title: git convention
 date: "2020-02-04T23:50:00.000Z"
 description: "git commit message convention"
+tags: ["git"]
 ---
 
 # intro

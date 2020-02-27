@@ -2,6 +2,7 @@
 title: hardware latency
 date: "2020-02-10T23:00:00.000Z"
 description: "모든 프로그래머가 알아야 하는 레이턴시"
+tags: ["knowledge"]
 ---
 
 
