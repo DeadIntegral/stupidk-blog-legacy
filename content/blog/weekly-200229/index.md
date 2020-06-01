@@ -6,7 +6,7 @@ tags: ["javascript"]
 ---
 
 # V8 v8.1's Intl.DisplayNames
-<a href="https://v8.dev/blog/v8-release-81" target="_blank">V8 8.1 Release</a>
+<a href="https://v8.dev/blog/v8-release-81" target="_blank">V8 8.1 Release</a>  
 Intl.DisplayNames 이 추가되었습니다.  
 languages, regions, scripts, currencies 를 번역해주는 API 입니다.  
 
@@ -27,7 +27,7 @@ deCurrencyNames.of('JPY');
 ```
 
 # React v16.13.0 Released
-<a href="https://reactjs.org/blog/2020/02/26/react-v16.13.0.html" target="_blank">React v16.13.0 Released</a>
+<a href="https://reactjs.org/blog/2020/02/26/react-v16.13.0.html" target="_blank">React v16.13.0 Released</a>  
 + New Warnings
 	+ Warnings for some updates during render  
 		다른 컴포넌트를 렌더링 하는 동안 setState를 사용하면 경고를 보여줍니다.
