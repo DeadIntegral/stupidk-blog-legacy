@@ -49,11 +49,6 @@ element.prepend?.(otherElement);
 <hr>
 
 
-# Tips for End to End Testing with Puppeteer
-<a href="https://goodguydaniel.com/blog/tips-end-to-end-testing-puppeteer/" target="_blank">Tips for End to End Testing with Puppeteer</a>
-- E2E 테스팅 가이드
-
-
 # Code & Tools
 ## https://github.com/tannerlinsley/react-query/releases/tag/v2.0.0 리액트 쿼리 2.0 릴리즈
 - 비동기 데이터 fetch, cache, update를 위한 hook
