@@ -1,6 +1,6 @@
 ---
 title: javascript weekly 2020-07-25
-date: "2020-07-25T01:30:00.000Z"
+date: "2020-07-25T10:30:00.000Z"
 description: "javascript weekly 2020-07-25"
 tags: ["javascript"]
 ---
