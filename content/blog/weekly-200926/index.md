@@ -6,7 +6,7 @@ tags: ["javascript"]
 ---
 
 # Vime: A Customizable Media Player Built with Web Components
-<a href="https://momentjs.com/docs/#/-project-status/" target="_blank">Vime: A Customizable Media Player Built with Web Components</a>
+<a href="https://vimejs.com" target="_blank">Vime: A Customizable Media Player Built with Web Components</a>
 - 리액트, 앵귤러, 뷰, 스벨트 등을 지원
 - 크로스 브라우징(IE는 제외) - 동일한 UI 지원
 - I18N 등 다양한 기능 제공
