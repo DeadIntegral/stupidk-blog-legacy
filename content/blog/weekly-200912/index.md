@@ -39,8 +39,6 @@ break point는 다음의 경우에 걸 수 있음.
 <hr>
 
 #
-<a href="">
-
 # Rendering React on the Edge with Flareact and Cloudflare Workers
 <a href="https://blog.cloudflare.com/rendering-react-on-the-edge-with-flareact-and-cloudflare-workers/" target="_blank">Rendering React on the Edge with Flareact and Cloudflare Workers</a>
 - flareact라는 프레임워크. 클라우드 플레어 워커(0ms 콜드 스타트)에서 리액트를 렌더링 및 캐싱
