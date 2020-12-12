@@ -81,8 +81,8 @@ tags: ["javascript"]
 	- libimagequant, libpng, zlib등을 사용했고, Emscripten을 통해 wasm으로 빌드
 
 
-## Compressor.js: Client-Side Image Compressor
-<a href="https://refreshless.com/nouislider/examples/" target="_blank">Compressor.js: Client-Side Image Compressor</a>
+## noUiSlider: Lightweight Range Slider with Full Multi-Touch Support
+<a href="https://refreshless.com/nouislider/examples/" target="_blank">noUiSlider: Lightweight Range Slider with Full Multi-Touch Support</a>
 - 종속성 없는 ui 슬라이더
 - 스텝 지정 기능(스텝 단위로 움직이는)
 - 각 슬라이더의 start 설정(커넥트와 연계하여 최소지점)
