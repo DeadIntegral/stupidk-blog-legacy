@@ -61,7 +61,7 @@ tags: ["javascript", "css", "node", "web", "typescript", "deno"]
 	- auth, userAgent, cookie 등
 
 ### A markdown parser and compiler. Built for speed.
-<a href="https://github.com/markedjs/marked" target="_blank"></a>
+<a href="https://github.com/markedjs/marked" target="_blank">A markdown parser and compiler. Built for speed.</a>
 - marked 2.0 릴리즈
 
 <hr>
