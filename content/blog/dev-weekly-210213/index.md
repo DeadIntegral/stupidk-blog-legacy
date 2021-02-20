@@ -90,6 +90,9 @@ tags: ["javascript", "css", "node", "web", "typescript", "deno"]
 <a href="https://christianheilmann.com/2021/02/08/sharing-data-between-css-and-javascript-using-custom-properties/" target="_blank">Sharing Data Between CSS and JavaScript with Custom Properties</a>
 - css variable을 조작해 js와 css간 변수 공유하는 아티클
 - root.style.setProperty()를 통해 css 변수에 값을 오버라이트 하는 형태
+- ```javascript
+	getComputedStyle(document.documentElement).getPropertyValue('--variable')
+	```
 
 ### Accessing Hardware Devices on the Web: A Roundup of APIs
 <a href="https://web.dev/devices-introduction/" target="_blank">Accessing Hardware Devices on the Web: A Roundup of APIs</a>
