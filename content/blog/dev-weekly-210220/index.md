@@ -24,45 +24,14 @@ synthetic timestamp 생성하기
 
 <hr>
 
+### A Table With Both a Sticky Header and a Sticky First Column
+<a href="https://css-tricks.com/a-table-with-both-a-sticky-header-and-a-sticky-first-column" target="_blank">A Table With Both a Sticky Header and a Sticky First Column</a>
+- table에서 stick header, first column 을 사용하는 아티클
+
 ### How to Create a Shrinking Header on Scroll Without JavaScript
 <a href="https://css-tricks.com/how-to-create-a-shrinking-header-on-scroll-without-javascript" target="_blank">How to Create a Shrinking Header on Scroll Without JavaScript</a>
 - css 만으로 sticky 헤더의 크기를 변경하기
 - viewport 바깥의 영역을 이용한 트릭
-
-<hr>
-
-### Hosting Apps with Always On
-<a href="https://blog.repl.it/alwayson" target="_blank">Hosting Apps with Always On</a>
-- repl always 출시. 웹 IDE에 hosting, package managing, https 등 제공
-- 설명에는 db 등도 제공해준다고 함
-
-<hr>
-
-# Node
-
-### System Information Library for Node.JS
-<a href="https://github.com/sebhildebrandt/systeminformation" target="_blank">System Information Library for Node.JS</a>
-- CPU, Memory 등 시스템 정보를 보여주는 라이브러리
-
-### Researcher hacks over 35 tech firms in novel supply chain attack
-<a href="https://www.bleepingcomputer.com/news/security/researcher-hacks-over-35-tech-firms-in-novel-supply-chain-attack/" target="_blank">Researcher hacks over 35 tech firms in novel supply chain attack</a>
-- 패키지 매니저 프라이빗 사용하는 곳들의 레포 이름과 똑같은 이름을 퍼블릭에 배포해봤더니 악성코드가 그대로 다운로드 되었다는 글
-
-### npm - Catching Up with Package Lockfile Changes in v7
-<a href="https://nitayneeman.com/posts/catching-up-with-package-lockfile-changes-in-npm-v7/" target="_blank">npm - Catching Up with Package Lockfile Changes in v7</a>
-- npm7 의 lockfile 이 어떻게 바꼈는지 정리한 포스트
-- 더 느려지고 대신 더 안정적으로 되었다는 글
-
-### Capture screenshots of websites
-<a href="https://github.com/sindresorhus/capture-website" target="_blank">Capture screenshots of websites</a>
-- 퍼펫티어 래핑한 웹사이트 캡쳐도구.
-- 각종 셋팅을 할 수 있음
-	- resolution(height, width), quality, fullpage 등
-	- auth, userAgent, cookie 등
-
-### A markdown parser and compiler. Built for speed.
-<a href="https://github.com/markedjs/marked" target="_blank">A markdown parser and compiler. Built for speed.</a>
-- marked 2.0 릴리즈
 
 <hr>
 
