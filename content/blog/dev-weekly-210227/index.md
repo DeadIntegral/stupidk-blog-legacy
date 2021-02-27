@@ -1,8 +1,8 @@
 ---
-title: dev-weekly 2021-02-13
-date: "2021-02-13T09:00:00.000Z"
-description: "dev-weekly 2021-02-13"
-tags: ["javascript", "css", "node", "web", "typescript", "deno"]
+title: dev-weekly 2021-02-27
+date: "2021-02-27T08:30:00.000Z"
+description: "dev-weekly 2021-02-27"
+tags: ["javascript", "css", "node", "web", "DB"]
 ---
 
 # CSS, Node, DB, ETC
